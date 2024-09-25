@@ -56,7 +56,7 @@ def main():
     else:
         seq = args.seq.upper()
         # print(seq)
-    print('check1')
+    
     # # Input
     # # seq = 'ATGGGccGTAGAATTCTTGCaaGCCCGT'
 
